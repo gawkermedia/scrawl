@@ -4,6 +4,10 @@
     "maintainers": [
         {"name": "Caolan McMahon", "web": "https://github.com/caolan"}
     ],
-    "version": "0.0.5",
+    "repository": {
+	  "type": "git",
+	  "url": "https://github.com/gawkermedia/scrawl.git"
+	},
+    "version": "0.0.6",
     "main": "lib/scrawl.js"
 }
